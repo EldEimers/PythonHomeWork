@@ -1,4 +1,4 @@
-places = int(8)
+places = 8
 
 while places > 0:
     print("Машина заехала.")

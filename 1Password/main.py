@@ -6,7 +6,7 @@ print("Введите пароль: ")
 user_answer = input()
 print()
 
-while(not access):
+while(True):
     if user_answer != correct_password:
         print("Пароль неверен..\n")
         print("Введите пароль: ")
